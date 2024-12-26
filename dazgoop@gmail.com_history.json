@@ -1,0 +1,393 @@
+[
+    {
+        "title": "https://www.bbc.co.uk/news/uk-64125045",
+        "sentiment": [
+            {
+                "label": "1 star",
+                "score": 0.573006272315979
+            }
+        ],
+        "propaganda": [
+            {
+                "label": "LABEL_2",
+                "score": 0.6046859622001648
+            }
+        ],
+        "entities": [
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "23",
+                "CARDINAL"
+            ],
+            [
+                "Share",
+                "PRODUCT"
+            ],
+            [
+                "Channel 5 Image",
+                "ORG"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "British",
+                "NORP"
+            ],
+            [
+                "American",
+                "NORP"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Romania",
+                "GPE"
+            ],
+            [
+                "more than seven months",
+                "DATE"
+            ],
+            [
+                "August 2023",
+                "DATE"
+            ],
+            [
+                "Tristan",
+                "PERSON"
+            ],
+            [
+                "two",
+                "CARDINAL"
+            ],
+            [
+                "UK",
+                "GPE"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "British",
+                "NORP"
+            ],
+            [
+                "2016",
+                "DATE"
+            ],
+            [
+                "six days",
+                "DATE"
+            ],
+            [
+                "36-year-old",
+                "DATE"
+            ],
+            [
+                "more than 6.9 million",
+                "CARDINAL"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Andrew Tate '",
+                "PERSON"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "BBC",
+                "ORG"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Emory Andrew Tate - was",
+                "PERSON"
+            ],
+            [
+                "December 1986",
+                "DATE"
+            ],
+            [
+                "American",
+                "NORP"
+            ],
+            [
+                "the US Air Force",
+                "ORG"
+            ],
+            [
+                "Britain",
+                "GPE"
+            ],
+            [
+                "UK",
+                "GPE"
+            ],
+            [
+                "America",
+                "GPE"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Luton",
+                "GPE"
+            ],
+            [
+                "England",
+                "GPE"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Tristan",
+                "PERSON"
+            ],
+            [
+                "England",
+                "GPE"
+            ],
+            [
+                "KFC",
+                "ORG"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ]
+        ],
+        "bias_terms_found": [
+            "allegations",
+            "controversial"
+        ],
+        "timestamp": "2024-12-16T18:02:51.372179",
+        "username": "theone21",
+        "email": "dazgoop@gmail.com"
+    },
+    {
+        "title": "https://www.bbc.co.uk/news/uk-64125045",
+        "sentiment": [
+            {
+                "label": "1 star",
+                "score": 0.48867642879486084
+            }
+        ],
+        "propaganda": [
+            {
+                "label": "LABEL_2",
+                "score": 0.6343913674354553
+            }
+        ],
+        "entities": [
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "23",
+                "CARDINAL"
+            ],
+            [
+                "Share",
+                "PRODUCT"
+            ],
+            [
+                "Channel 5 Image",
+                "ORG"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "British",
+                "NORP"
+            ],
+            [
+                "American",
+                "NORP"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Romania",
+                "GPE"
+            ],
+            [
+                "more than seven months",
+                "DATE"
+            ],
+            [
+                "August 2023",
+                "DATE"
+            ],
+            [
+                "Tristan",
+                "PERSON"
+            ],
+            [
+                "two",
+                "CARDINAL"
+            ],
+            [
+                "UK",
+                "GPE"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "British",
+                "NORP"
+            ],
+            [
+                "2016",
+                "DATE"
+            ],
+            [
+                "six days",
+                "DATE"
+            ],
+            [
+                "36-year-old",
+                "DATE"
+            ],
+            [
+                "more than 6.9 million",
+                "CARDINAL"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Andrew Tate '",
+                "PERSON"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "BBC",
+                "ORG"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Emory Andrew Tate - was",
+                "PERSON"
+            ],
+            [
+                "December 1986",
+                "DATE"
+            ],
+            [
+                "American",
+                "NORP"
+            ],
+            [
+                "the US Air Force",
+                "ORG"
+            ],
+            [
+                "Britain",
+                "GPE"
+            ],
+            [
+                "UK",
+                "GPE"
+            ],
+            [
+                "America",
+                "GPE"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Luton",
+                "GPE"
+            ],
+            [
+                "England",
+                "GPE"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Tristan",
+                "PERSON"
+            ],
+            [
+                "England",
+                "GPE"
+            ],
+            [
+                "KFC",
+                "ORG"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ]
+        ],
+        "bias_terms_found": [
+            "allegations",
+            "controversial"
+        ],
+        "timestamp": "2024-12-16T18:12:27.936750",
+        "username": "theone21",
+        "email": "dazgoop@gmail.com"
+    },
+    {
+        "title": "https://www.bbc.co.uk/news/uk-64125045",
+        "binary_propaganda": {
+            "Contains_Propaganda": true,
+            "Confidence": 0.9977466464042664
+        },
+        "detailed_propaganda": {
+            "Appeals to Authority": 

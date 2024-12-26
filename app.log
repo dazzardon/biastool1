@@ -1,0 +1,24 @@
+2024-12-18 22:44:31,338 - INFO - Sentiment Analysis model loaded successfully.
+2024-12-18 22:44:31,499 - INFO - Binary Propaganda Detection model loaded successfully.
+2024-12-18 22:44:31,662 - INFO - Detailed Propaganda Classification model loaded successfully.
+2024-12-18 22:44:51,283 - ERROR - JSON decode error while saving history: Expecting value: line 212 column 21 (char 4868)
+2024-12-21 23:21:42,223 - INFO - Sentiment Analysis model loaded successfully.
+2024-12-21 23:21:43,747 - INFO - Binary Propaganda Detection model loaded successfully.
+2024-12-21 23:21:45,299 - INFO - Detailed Propaganda Classification model loaded successfully.
+2024-12-21 23:21:54,981 - ERROR - JSON decode error while saving history: Expecting value: line 212 column 21 (char 4868)
+2024-12-25 02:18:54,418 - INFO - Sentiment Analysis model loaded successfully.
+2024-12-25 02:18:56,114 - INFO - Binary Propaganda Detection model loaded successfully.
+2024-12-25 02:18:57,931 - INFO - Detailed Propaganda Classification model loaded successfully.
+2024-12-25 02:19:06,755 - ERROR - JSON decode error while saving history: Expecting value: line 212 column 21 (char 4868)
+2024-12-26 02:13:23,908 - WARNING - Failed login attempt for email: 'dazgoop@gmail.com'.
+2024-12-26 02:13:47,181 - ERROR - Registration failed for user: dazgoop@gmail.com
+2024-12-26 02:13:56,339 - ERROR - Registration failed for user: dazgoop1@gmail.com
+2024-12-26 02:14:04,311 - INFO - New user registered: dazgoop111@gmail.com
+2024-12-26 02:14:25,425 - INFO - User 'dazgoop111@gmail.com' logged in successfully.
+2024-12-26 02:14:42,480 - INFO - Analysis saved to dazgoop111@gmail.com_history.json.
+2024-12-26 02:14:59,671 - INFO - Analysis saved to dazgoop111@gmail.com_history.json.
+2024-12-26 02:15:57,858 - INFO - Analysis saved to dazgoop111@gmail.com_history.json.
+2024-12-26 02:20:14,793 - INFO - Analysis saved to dazgoop111@gmail.com_history.json.
+2024-12-26 02:24:30,888 - INFO - Analysis saved to dazgoop111@gmail.com_history.json.
+2024-12-26 02:32:48,469 - INFO - User 'dazgoop111@gmail.com' logged in successfully.
+2024-12-26 02:33:05,522 - INFO - Analysis saved to dazgoop111@gmail.com_history.json.

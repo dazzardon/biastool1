@@ -1,0 +1,12 @@
+# Ignore the SQLite database
+users.db
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore Streamlit cache
+.streamlit/

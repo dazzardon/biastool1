@@ -1,0 +1,212 @@
+[
+    {
+        "title": "Analyzed Article",
+        "Contains_Propaganda": "Yes",
+        "Avg_Confidence": 0.999755064646403,
+        "Confidence_Label": "High Confidence",
+        "Detailed_Propaganda": {},
+        "Sentiment": {
+            "label": "Negative",
+            "score": 0.29337334632873535
+        },
+        "Entities": [
+            [
+                "British",
+                "NORP"
+            ],
+            [
+                "American",
+                "NORP"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Romania",
+                "GPE"
+            ],
+            [
+                "more than seven months",
+                "DATE"
+            ],
+            [
+                "August 2023",
+                "DATE"
+            ],
+            [
+                "Tristan",
+                "PERSON"
+            ],
+            [
+                "two",
+                "CARDINAL"
+            ],
+            [
+                "UK",
+                "GPE"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "British",
+                "NORP"
+            ],
+            [
+                "2016",
+                "DATE"
+            ],
+            [
+                "six days",
+                "DATE"
+            ],
+            [
+                "36-year-old",
+                "DATE"
+            ],
+            [
+                "more than 6.9 million",
+                "CARDINAL"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Andrew Tate '",
+                "PERSON"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "BBC",
+                "ORG"
+            ],
+            [
+                "Andrew Tate",
+                "PERSON"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Emory Andrew Tate - was",
+                "PERSON"
+            ],
+            [
+                "December 1986",
+                "DATE"
+            ],
+            [
+                "American",
+                "NORP"
+            ],
+            [
+                "the US Air Force",
+                "ORG"
+            ],
+            [
+                "Britain",
+                "GPE"
+            ],
+            [
+                "UK",
+                "GPE"
+            ],
+            [
+                "America",
+                "GPE"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Luton",
+                "GPE"
+            ],
+            [
+                "England",
+                "GPE"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "Tristan",
+                "PERSON"
+            ],
+            [
+                "England",
+                "GPE"
+            ],
+            [
+                "KFC",
+                "ORG"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "four",
+                "CARDINAL"
+            ],
+            [
+                "Tate",
+                "PERSON"
+            ],
+            [
+                "December 2022",
+                "DATE"
+            ],
+            [
+                "Greta Thunberg",
+                "PERSON"
+            ],
+            [
+                "33",
+                "CARDINAL"
+            ],
+            [
+                "TikTok",
+                "ORG"
+            ],
+            [
+                "AndrewTate",
+                "ORG"
+            ],
+            [
+                "billions",
+                "CARDINAL"
+            ]
+        ],
+        "Bias_Terms_Found": [
+            "controversial",
+            "allegations"
+        ],
+        "final_score": 0,
+        "Timestamp": "2024-12-18T02:14:06.160429",
+        "Username": "",
+        "Email": ""
+    },
+    {
+        "title": "Analyzed Article",
+        "Contains_Propaganda": "Yes",
+        "Avg_Confidence": 0.9998567163944244,
+        "Confidence_Label": "High Confidence",
+        "Detailed_Propaganda": {
+            "Appeals to Authority": [
+                [
+                    "The self-proclaimed misogynist influencer Published 23 July Share close panel Share page Copy link About sharing Image source, Channel 5 Image caption, Andrew Tate was removed from Big Brother over a video that appeared to show him assault a woman The controversial British-American influencer Andrew Tate is facing trial in Romania.",
+                    
